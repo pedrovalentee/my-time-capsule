@@ -6,7 +6,7 @@
 Esse é um projeto web de uma capsula do tempo para exibir memórias em uma linha do tempo.
 
 ## 🚀 Tecnologias
-Esse ptojeto foi desenvolvido durante a NLW da Rocketseat com as seguintes tecnologias:
+Esse projeto foi desenvolvido durante a NLW da Rocketseat com as seguintes tecnologias:
 - HTML
--CSS
+- CSS
 - Git e Github
